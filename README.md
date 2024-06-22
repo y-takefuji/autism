@@ -8,8 +8,8 @@ Initial query to AI: XXX
 
 Generated figures for autism prevalence in the US and Spain
 
-<img src='USA.jpg' width=450 height=250>
+<img src='USA.jpg' width=640 height=480>
 
-<img src='Spain.jpg' width=450 height=250>
+<img src='Spain.jpg' width=640 height=480>
 
 
