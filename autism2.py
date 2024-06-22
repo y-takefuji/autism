@@ -5,7 +5,7 @@ import adjustText  # You need to install this package: pip install adjustText
 syear=2015
 eyear=2022
 # Load the data
-df = pd.read_csv('autism_prevalence_studies_20240621.csv')
+df = pd.read_csv('autism_prevalence_studies.csv')
 
 # Convert 'Study Years' to string type
 df['Study Years'] = df['Study Years'].astype(str)
